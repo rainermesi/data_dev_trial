@@ -1,0 +1,6 @@
+domain_id = ''
+api_token = ''
+aws_access_id = ''
+aws_secret_id = ''
+aws_filename = ''
+aws_bucket = ''
